@@ -1,0 +1,2 @@
+coffee -wcbl -j all.js -o .. main
+echo 'quit watching  Ctrl-c'
