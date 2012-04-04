@@ -1,2 +1,2 @@
-coffee -wcbl -j all.js -o .. main
+coffee -wc -j game.js -o .. init core
 echo 'quit watching  Ctrl-c'

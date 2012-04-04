@@ -1,0 +1,18 @@
+{
+  "author": "mizchi <miz404@gmail.com>",
+  "name": "skeleton",
+  "description": "game project skeleton",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+     "zappa": "0.3.3",
+     "coffee-script": ">=1.2.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
